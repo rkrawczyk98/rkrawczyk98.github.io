@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "90ce185898756ca8b07dc2c8676267d3
 "assets/AssetManifest.bin.json": "4b21d5c5d9a945087be8f59f52ffe777",
 "assets/AssetManifest.json": "5bb120f235df858f3385f56045f791aa",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
+"assets/fonts/MaterialIcons-Regular.otf": "0d5ee594093072e11506febbaee736f1",
 "assets/images/flag_pl.png": "f20e9ef473a9ed24176f5ad74dd0d50a",
 "assets/images/flag_uk.png": "98773db151c150cabe845183241bfe6b",
 "assets/images/google.png": "2fc670cda8d8a4f39016569c56e4886c",
@@ -27,10 +27,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "90ce185898756ca8b07dc2c8676267d3
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "dc357e90c1982337cfda3989b3fb8eef",
+"flutter_bootstrap.js": "0d5e30316b60c61f34ed1de844d2ed1c",
 "index.html": "fb806a02693a88734f6504bfaf95875c",
 "/": "fb806a02693a88734f6504bfaf95875c",
-"main.dart.js": "271e19e6f7eba0badd10e0295e0fd7cf",
+"main.dart.js": "2305146f5010ba8ed09eef49a96e8aa7",
 "manifest.json": "dbcb837a2d67b0578dabf4cbac2213df",
 "version.json": "157486e9a1873a635859b1d6239ca0fb"};
 // The application shell files that are downloaded before a service worker can
